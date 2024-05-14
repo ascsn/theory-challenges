@@ -8,4 +8,10 @@ Theory challenges for the hands on session for various nuclear theory talks, inc
 
 If you have any follow up questions about the challenges, want feedback, or a place to discuss general ideas about these topics you can join the ASCSN forum: [https://forum.ascsn.net/](https://forum.ascsn.net/t/nuclear-theory-challenges-space/126)
 
+Take a look at the video tutorial on how to run the example in code spaces if you have never done that:
+
+https://drive.google.com/file/d/10915Dq3_R_ogl0q0RWNHTCPQnBupJI5r/view?usp=drive_link
+
+We will soon transcribe the instructions here as well!
+
 Put together by: Pablo Giuliani and Kyle Godbey
