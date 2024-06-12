@@ -2,7 +2,7 @@
 
 Theory challenges for the hands on session for various nuclear theory talks, including:
 
-* The [2023 Exotic Beams Summer School](https://people.nscl.msu.edu/~wrede/EBSS2023) [(Link for the slides)](https://docs.google.com/presentation/d/1Gc1tNKWJPSoWiuWGtqzv_9EwbWbhEqAK/edit?)usp=sharing&ouid=108123317698154395922&rtpof=true&sd=true)
+* The [2023 Exotic Beams Summer School](https://people.nscl.msu.edu/~wrede/EBSS2023) [(Link for the slides)](https://docs.google.com/presentation/d/1Gc1tNKWJPSoWiuWGtqzv_9EwbWbhEqAK/edit?usp=drive_link&ouid=108123317698154395922&rtpof=true&sd=true)
 
 * The [2024 Nuclear Science Summer School](https://frib.msu.edu/public/frib-outreach/ns3) [(Link to slides)](https://drive.google.com/drive/folders/1VLGZV_6kPkiC-cE-RmsF-lwKU7NB-JrF?usp=sharing)
 
